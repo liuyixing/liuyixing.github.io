@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-public: true
+public: false
 ---
 
 这是一个基于 Jekyll 的博客站点，主题为 laobubu 的 EasyBook 。

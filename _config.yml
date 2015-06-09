@@ -1,7 +1,7 @@
 # Site settings
-title: Another Blog
-email: your_email@example.com
-author: your_name
+title: 星星的博客
+email: theyixingliu@gmail.com
+author: 星星
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: > # until "timezone:"
   One sentence introducing yourself.
@@ -15,7 +15,7 @@ url: "" # the base hostname & protocol for your site
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
