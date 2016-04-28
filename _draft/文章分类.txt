@@ -1,0 +1,32 @@
+一. 计算机
+  1) 编程语言
+    a) java
+    b) php
+    c) js
+    d) python
+    e) shell
+    f) c/c++
+  2) 操作系统
+    a) win7
+    b) ubuntu
+  3) 算法
+  4) 数据库
+    a) mysql
+    b) mongo
+    c) redis
+  5) 网络编程
+  8) 分布式
+  9) 源码
+    a) hotspot
+    b) php
+    c) redis
+    d) mysql
+    e) nginx
+    f) pthread
+    h) linux
+  10) 硬件
+    a) 个人计算机
+    b) 嵌入式
+  11) 其他
+
+二. 生活
