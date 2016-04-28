@@ -24,7 +24,9 @@ categories: jekyll
 
 2.ERROR:  While executing gem ... (Gem::FilePermissionError)
     You don't have write permissions for the /usr/bin directory.
+
 原因：权限不足
+
 解决: sudo gem install jekyll
 
 3.ERROR:  Error installing jekyll:
@@ -50,8 +52,8 @@ make && sudo make instal
 
 4.Jekyll运行在172.19.104.157服务器上，我本地浏览器打开http://172.19.104.157:4000/无法访问
 
-原因: Jekyll只listen在localhost
+原因: Jekyll只监听了localhost，也就是127.0.0.1这个环回地址，而172.19.104.157地址没有被监听
 
-解决: Jekyll serve -h查看帮助文档，发现可以配置-h参数，重新运行jekyll serve --host=0.0.0.0，或者在配置文件_config.yml中设置host: 0.0.0.0
+解决: 通过jekyll serve -h查看帮助文档，发现可以配置--host参数。所以重新执行jekyll serve --host=0.0.0.0让jekyll见监听本地所有ip地址，另外，还可以在配置文件_config.yml中设置host: 0.0.0.0
 
 [Jekyll官网]: https://jekyllrb.com/
