@@ -4,7 +4,7 @@ title:  '怎么安装Jekyll'
 date:   2016-04-27 16:30:00 +0800
 categories: jekyll
 ---
-###怎么安装Jekyll？
+### 怎么安装Jekyll？
 
 其实[Jekyll官网][Jekyll官网]首页中间部分就给出了这个问题的答案。
 
@@ -14,7 +14,7 @@ categories: jekyll
 
 其实并不是，安装过程并不顺利，遇到了一些问题。
 
-###遇到了什么问题？
+### 遇到了什么问题？
 
 1.Unable to download data from https://rubygems.org/ - Errno::ECONNRESET: Connection reset by peer - SSL_connect (https://rubygems.org/latest_specs.4.8.gz)
 
