@@ -52,4 +52,4 @@ categories: jekyll
 [淘宝RubyGems镜像]: https://ruby.taobao.org/
 [淘宝Ruby镜像库]: https://ruby.taobao.org/mirrors/ruby/
 
-[Jekyll快速入门指南]: http://7xtisb.com2.z0.glb.clouddn.com/images/howtoinstalljekyll/installjekyll.jpg
+[Jekyll快速入门指南]: http://7xtisb.com2.z0.glb.clouddn.com/images/howtoinstalljekyll/quickstart.jpg
