@@ -47,8 +47,11 @@ categories: jekyll
 
 > 解决：通过jekyll serve -h查看帮助文档，发现可以配置--host参数，所以通过jekyll serve --host=0.0.0.0方式重新启动Jekyll, 让Jekyll监听本机所有ip地址。另外，还可以在配置文件_config.yml中设置host: 0.0.0.0
 
+---
 Done!
+
 Congratulations!
+
 Enjoy it!
 
 [Jekyll官网]: https://jekyllrb.com/
